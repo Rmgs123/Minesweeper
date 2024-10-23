@@ -1,5 +1,5 @@
-In order to run this project you'll need two python modules installed:
+## **In order to run this project you'll need two python modules installed:**
 
-random -> comes built-in with python.
+**pygame** -> run _"pip install pygame"_ in the command line.
 
-pygame -> run "pip install pygame" in the command line.
+**random** -> comes built-in with python.
